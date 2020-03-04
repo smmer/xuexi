@@ -7,6 +7,7 @@
 
 
 # <a id='1'>发送请求</a>
-1. urllib库
-  1.1 request模块
+*Take
+*sss
+*qweqe
   
